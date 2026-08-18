@@ -27,3 +27,7 @@ LeetCode, HackerRank, LinkedIn — URLs go here when they exist. No invented sta
 ### Contact
 
 Issue on a public repo, or the email on this GitHub profile.
+
+### License
+
+MIT. See [LICENSE](LICENSE).
