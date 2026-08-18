@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mahaveer Singh Gehlot
 
-<!--
-**mahik504/mahik504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student. I ship public repos instead of painting a contribution graph.
 
-Here are some ideas to get you started:
+**Now:** internship via original work — ML flagship, college tools, DSA I can explain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public work
+
+- [AstroVerse](https://github.com/mahik504/AstroVerse) — exoplanet transit detection (hiring flagship; README must stay honest)
+- [AirLens](https://github.com/mahik504/AirLens) — college AQI visualization (course work, not the internship pin)
+- [dsa](https://github.com/mahik504/dsa) — LeetCode / HackerRank writeups
+- [orchestra-workflow](https://github.com/mahik504/orchestra-workflow) — how I run Cursor + Antigravity (template, not a product)
+
+## Stack I actually use
+
+Python · TypeScript · React · Expo · SQL · Git
+
+## Profiles
+
+GitHub is this page. LeetCode / HackerRank / LinkedIn: add URLs here when they exist. No fake stats.
+
+## Contact
+
+GitHub issues on a public repo, or email on my GitHub profile.
