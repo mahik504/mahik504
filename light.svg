@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-label="Mahaveer Singh Gehlot">
+  <rect width="1120" height="280" fill="#f4f1ea"/>
+  <rect x="36" y="36" width="88" height="88" fill="#e7e2d6"/>
+  <text x="80" y="92" text-anchor="middle" fill="#1a1916" font-family="ui-serif, Georgia, serif" font-size="28" font-weight="600">MG</text>
+  <line x1="148" y1="36" x2="148" y2="244" stroke="#8a7018" stroke-width="1"/>
+  <text x="176" y="72" fill="#1a1916" font-family="ui-serif, Georgia, 'Times New Roman', serif" font-size="28" font-weight="600">Mahaveer Singh Gehlot</text>
+  <text x="176" y="102" fill="#5c5850" font-family="ui-sans-serif, system-ui, sans-serif" font-size="15">CS student · India · mahik504</text>
+  <text x="176" y="138" fill="#1a1916" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">College work that should not die as a screenshot.</text>
+  <text x="176" y="176" fill="#5c5850" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">ML pipelines · honest READMEs · surfaces people can click</text>
+  <text x="176" y="202" fill="#1a1916" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14">Hiring flagship in public · 3D operator surface on the side</text>
+  <text x="176" y="236" fill="#5c5850" font-family="ui-monospace, Consolas, monospace" font-size="13">Python · TypeScript · React · Expo · SQL</text>
+</svg>
