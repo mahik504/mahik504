@@ -1,10 +1,3 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light.svg" />
-    <img alt="Mahaveer Singh Gehlot — CS student, India" src="dark.svg" width="100%" />
-  </picture>
-</div>
 
 CS undergrad in India. I build machine-learning pipelines I can defend line by line, and the interfaces that make them usable. Most college projects die as a screenshot in a report; I keep mine running in a repo you can clone.
 
